@@ -1,6 +1,6 @@
 size=xlarge  variant=BCAS  n=50000  T=10000
 baseline=Greedy  ilp_time_limit=30.0
-mean_quality=1.0214 ± 0.0038
+mean_quality=1.0514 ± 0.0038
 model_ms_per_snap=14321.45
 baseline_ms_per_ckpt=31.22
 validity=100.0%
